@@ -163,11 +163,11 @@ module.exports = async (client, message) => {
 }
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by Mr_Deadpool#7518 | https://discord.com/invite/fQeuQ64cSF
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Infinity | Develop & Gaming | https://discord.com/invite/fQeuQ64cSF
  * @INFO
- * Please mention Him / Milrato Development, when using this Code!
+ * Please mention Him / Infinity | Develop & Gaming, when using this Code!
  * @INFO
  */
 function escapeRegex(str) {

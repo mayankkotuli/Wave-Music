@@ -1,4 +1,4 @@
-console.log(`Welcome to SERVICE HANDLER /--/ By https://milrato.eu /--/ Discord: Tomato#6966`.yellow);
+console.log(`Welcome to SERVICE HANDLER /--/ By https://infinitygamingcommunity.weebly.com/u /--/ Discord: Mr_Deadpool#75186`.yellow);
 const PlayerMap = new Map()
 const Discord = require(`discord.js`);
 const {
