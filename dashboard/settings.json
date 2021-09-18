@@ -1,0 +1,15 @@
+{
+    "website" : {
+      "support": "https://discord.com/invite/fQeuQ64cSF",
+      "domain": "https://Wave-Music.deadpool296.repl.co"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://Wave-Music.deadpool296.repl.co/callback",
+        "clientID": "862584288766722108",
+        "secret": "mzl6G-eFhOxCDyhN_5jJSl42oP4j_aan"
+    }
+  }
+
